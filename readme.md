@@ -32,7 +32,7 @@ These are platforms being built on the internet by awesome people for teaching p
   - "Learn to code — for free. Build projects. Earn certifications."
 - [Learnetto](https://learnetto.com/) by [@hrishio](https://twitter.com/hrishio)
   - "Learn fun & useful skills from independent teachers."
-- [Slip](http://example.com) by [@KennethCassel](https://twitter.com/KennethCassel)
+- [Slip](https://www.slip.so/) by [@KennethCassel](https://twitter.com/KennethCassel)
   - "Get paid for your programming knowledge while you sleep"
 - [Tutorpass](https://tutorpass.io/) by [@jeansymolanza](https://twitter.com/jeansymolanza)
   - "easy-to-use platform which helps you create online courses and build a community of learners around you."
