@@ -17,9 +17,6 @@ These are platforms being built on the internet by awesome people for teaching p
   - "Create and share interactive tech courses faster"
 - [codedamn](https://codedamn.com/) by [@mehulmpt](https://twitter.com/mehulmpt)
   - "Learn web development with mentorship, hands-on practice, and courses"
-- [CodingWolves](https://www.codingwolves.io/) by [@SeaCatBiz](https://twitter.com/SeaCatBiz)
-  - "Create rich, interactive coding courses
-    that help students to become pros and find jobs they deserve"
 - [CourseMaker](https://coursemaker.org/) by [@ChrisSamiullah](https://twitter.com/ChrisSamiullah)
   - "Interactive coding lectures your students will love."
 - [CSS for JavaScript Developers](https://css-for-js.com/) by [@JoshWComeau](https://twitter.com/JoshWComeau)
@@ -32,10 +29,6 @@ These are platforms being built on the internet by awesome people for teaching p
   - "Learn to code — for free. Build projects. Earn certifications."
 - [Learnetto](https://learnetto.com/) by [@hrishio](https://twitter.com/hrishio)
   - "Learn fun & useful skills from independent teachers."
-- [Slip](https://www.slip.so/) by [@KennethCassel](https://twitter.com/KennethCassel)
-  - "Get paid for your programming knowledge while you sleep"
-- [Tutorpass](https://tutorpass.io/) by [@jeansymolanza](https://twitter.com/jeansymolanza)
-  - "easy-to-use platform which helps you create online courses and build a community of learners around you."
 
 ## Contribute
 
